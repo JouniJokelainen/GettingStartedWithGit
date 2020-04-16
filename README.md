@@ -1,1 +1,1 @@
-"# GettingStartedWithGit"  
+## GettingStartedWithGit
